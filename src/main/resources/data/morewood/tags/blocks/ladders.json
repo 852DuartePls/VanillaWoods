@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ladder",
+    "morewood:birch_ladder",
+    "morewood:spruce_ladder",
+    "morewood:acacia_ladder",
+    "morewood:jungle_ladder",
+    "morewood:dark_oak_ladder",
+    "morewood:warped_ladder",
+    "morewood:crimson_ladder"
+  ]
+}

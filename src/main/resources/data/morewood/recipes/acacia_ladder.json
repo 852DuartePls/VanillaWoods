@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "morewood:ladders"
+    },
+    "B": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "morewood:acacia_ladder",
+    "count": 3
+  }
+}

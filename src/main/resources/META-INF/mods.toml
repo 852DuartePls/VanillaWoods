@@ -1,0 +1,31 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+modId="morewood" #mandatory
+version="1.16.4 - 1.0.0" #mandatory
+displayName="VanillaWoods" #mandatory
+#updateJSONURL="http://myurl.me/" #optional
+#displayURL="http://example.com/" #optional
+logoFile="icon.png" #optional
+#credits="" #optional
+authors="852Duarte" #optional
+description='''
+Mod that adds a different variety of chests, bookshelfs, ladders and barrels to each existing wooden variable in Minecraft
+'''
+
+[[dependencies.morewood]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[35,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.morewood]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
