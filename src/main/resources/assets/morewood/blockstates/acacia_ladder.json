@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morewood:block/ladder/acacia",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morewood:block/ladder/acacia"
+    },
+    "facing=south": {
+      "model": "morewood:block/ladder/acacia",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morewood:block/ladder/acacia",
+      "y": 270
+    }
+  }
+}

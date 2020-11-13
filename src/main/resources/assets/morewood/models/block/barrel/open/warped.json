@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "morewood:block/barrel/side/warped",
+    "bottom": "morewood:block/barrel/bottom/warped",
+    "top": "morewood:block/barrel/top/open/warped"
+  }
+}

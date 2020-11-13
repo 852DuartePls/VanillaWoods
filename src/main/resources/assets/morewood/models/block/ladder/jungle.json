@@ -1,0 +1,6 @@
+{
+  "parent": "morewood:block/ladder/template",
+  "textures": {
+    "ladder": "morewood:block/ladder/jungle"
+  }
+}

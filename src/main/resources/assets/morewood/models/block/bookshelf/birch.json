@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "morewood:block/bookshelf/birch",
+    "end": "minecraft:block/birch_planks"
+  }
+}
